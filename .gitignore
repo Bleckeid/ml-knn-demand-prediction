@@ -1,0 +1,12 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Конфиги Jupyter
+.ipynb_checkpoints/
+
